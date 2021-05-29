@@ -15,3 +15,7 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://www.youtube.com/channel/UC72XJ0sYYEm2OYnXL3BsVSQ)
 
+### My bot in Discord:
+link invite bot: [click me](https://dsc.gg/everybot)
+EveryBot |  Support Server: [](https://dsc.gg/everybot%7Csupport-server)
+My Dscord: Hanoch#4264
