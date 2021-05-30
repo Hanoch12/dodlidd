@@ -15,7 +15,7 @@
 
 --------------------------------------------------------------------
 
-### Latest projects in Github <img align="middle" alt="codeSTACKr | YouTube" width="22px" src="![image](https://user-images.githubusercontent.com/73758083/120105653-8bb85000-c162-11eb-8b9a-0ba2d967588c.png)" />
+### Latest projects in Github [<img align="middle" alt="codeSTACKr | YouTube" width="22px" src="![image](https://user-images.githubusercontent.com/73758083/120105653-8bb85000-c162-11eb-8b9a-0ba2d967588c.png)" />]
 
 - command handler simple: [click](https://github.com/dodlidd/command-handler-simple)
 - Rpc status discord.js:  [click](https://github.com/dodlidd/status-discord-js)
