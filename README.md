@@ -29,7 +29,7 @@
 
 --------------------------------------------------------------------
 
-### My bot in Discord:
+### My bot in Discord: [<img align="middle" alt="codeSTACKr | YouTube" width="22px" src="https://media.tenor.com/images/55fb77904fc2e1ae5f18bf211795cbbe/tenor.gif" />]
 - link invite bot: [click me](https://dsc.gg/everybot)
 - EveryBot |  Support Server: [click me](https://dsc.gg/everybot%7Csupport-server)
 - My Dscord: Hanoch#4264
