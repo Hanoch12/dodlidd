@@ -3,7 +3,7 @@
 ## Information:
 
 - 🔭 Name: Hanoch
-- 🌱 City: Israel 💙
+- 🌱 Country: Israel 💙
 - 👯 I’m currently learning everything 🤣
 - ⚡ Fun fact: Loves to do everything
 
