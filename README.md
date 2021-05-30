@@ -15,6 +15,13 @@
 
 --------------------------------------------------------------------
 
+### Latest projects in Github
+
+- command handler simple: [click](https://github.com/dodlidd/command-handler-simple)
+- Rpc status discord.js:  [click](https://github.com/dodlidd/status-discord-js)
+
+--------------------------------------------------------------------
+
 ### Social Networks
 
 - [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://www.youtube.com/channel/UC72XJ0sYYEm2OYnXL3BsVSQ)
