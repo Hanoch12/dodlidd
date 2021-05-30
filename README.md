@@ -15,7 +15,7 @@
 
 --------------------------------------------------------------------
 
-### Latest projects in Github
+### Latest projects in Github [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.pngarts.com/files/8/Github-Logo-Transparent-Background-PNG.png" />]
 
 - command handler simple: [click](https://github.com/dodlidd/command-handler-simple)
 - Rpc status discord.js:  [click](https://github.com/dodlidd/status-discord-js)
