@@ -15,14 +15,14 @@
 
 --------------------------------------------------------------------
 
-### Latest projects in Github: [<img align="middle" alt="codeSTACKr | YouTube" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" />]
+### Latest projects in Github: <img align="middle" alt="codeSTACKr | YouTube" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" />
 
 - command handler simple: [click](https://github.com/dodlidd/command-handler-simple)
 - Rpc status discord.js:  [click](https://github.com/dodlidd/status-discord-js)
 
 --------------------------------------------------------------------
 
-### Social media: [<img align="middle" alt="codeSTACKr | YouTube" width="32px" src="https://www.knownhost.com/img/app-list/socialnetwork/socialnetwork_sideimage.png" />]
+### Social media: <img align="middle" alt="codeSTACKr | YouTube" width="32px" src="https://www.knownhost.com/img/app-list/socialnetwork/socialnetwork_sideimage.png" />
 
 - [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://www.youtube.com/channel/UC72XJ0sYYEm2OYnXL3BsVSQ)
 - [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png" />][twitch](https://www.twitch.tv/hanoch9)
