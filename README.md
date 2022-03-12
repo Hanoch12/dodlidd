@@ -1,8 +1,7 @@
-### Hi there, I'm Hanoch 👋
+### Hi there, I'm Skora 👋
 
 ## Information:
 
-- 🔭 Name: Skora
 - 👯 I’m currently learning everything 🤣
 - ⚡ Fun fact: Loves to do everything
 
