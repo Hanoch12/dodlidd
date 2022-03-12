@@ -2,8 +2,7 @@
 
 ## Information:
 
-- 🔭 Name: Hanoch
-- 🌱 Country: Israel 💙
+- 🔭 Name: Skora
 - 👯 I’m currently learning everything 🤣
 - ⚡ Fun fact: Loves to do everything
 
